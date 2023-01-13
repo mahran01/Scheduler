@@ -17,7 +17,7 @@ Then the user canmethod chain with the preferred scheduling algorithm including 
 \
 \
 For example:
-`Scheduler.getinput().roundRobinData()`
+`Scheduler.getinput().roundRobin()`
 \
 \
 The above code will get the input from the user and print the output for Round Robin Scheduling
